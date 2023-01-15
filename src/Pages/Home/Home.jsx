@@ -30,7 +30,7 @@ const Home = () => {
                 </form>
             </div>
                 
-            </div>
+            
 
            
             <div className = "logo">
